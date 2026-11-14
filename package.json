@@ -1,0 +1,6 @@
+{
+  "name": "balzy-private-server",
+  "version": "2.1.0",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
